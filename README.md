@@ -1,0 +1,1 @@
+#Seja bem vindo ao teste do Vedovelli instalacao do GIT no maldito Windows
